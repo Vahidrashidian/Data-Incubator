@@ -1,2 +1,2 @@
 # Data-Incubator
-Changes to spectral information of building after collapse due to earthquake.
+Changes to spectral information of buildings after collapse due to earthquake.
